@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivani Kumari</h1>
 <details>
   <summary>✍ Github stats</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en" alt="shivani4208" /></p>
-</details>
-<details>
-  <summary>✍ Github Streak</summary>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&" alt="shivani4208" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical" alt="shivani4208" /></p>
 </details>
 <details>
   <summary>✍ Recent GitHub Activity</summary>
@@ -16,4 +12,8 @@
 3. 🎉 Merged PR [#36](https://github.com/ContriHUB/Gif-It/pull/36) in [ContriHUB/Gif-It](https://github.com/ContriHUB/Gif-It)
 <!--END_SECTION:activity-->
 
+</details>
+<details>
+  <summary>✍ Github Streak</summary>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&" alt="shivani4208" /></p>
 </details>
