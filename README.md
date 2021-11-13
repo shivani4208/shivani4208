@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivani Kumari</h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani4208&show_icons=true&locale=en&layout=compact" alt="shivani4208" /></p>
 <details>
-  <summary>✍ GitHub Stats</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical" alt="shiavni4208" /></p>
-</details>
-<details>
   <summary>✍ Github Streak</summary>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&" alt="shivani4208" /></p>
 </details>
