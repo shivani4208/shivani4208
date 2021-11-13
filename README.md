@@ -7,9 +7,9 @@
 <details>
   <summary>:zap: Github Streak</summary>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&" alt="shivani4208" /></p>
+</details>
 <details>
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>✍ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#26](https://github.com/ContriHUB/Concise/pull/26) in [ContriHUB/Concise](https://github.com/ContriHUB/Concise)
