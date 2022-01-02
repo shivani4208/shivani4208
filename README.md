@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Kumari</h1>
+<p>I am here to pursue a challenging career with dedication and work hard for the growth of organistaion.</p>
 <details>
   <summary>✍ Github stats</summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical" alt="shivani4208" /></p>
