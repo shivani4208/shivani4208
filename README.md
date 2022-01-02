@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Shivani Kumari 
-<br>
+
 I am here to pursue a challenging career with dedication and work hard for the growth of organistaion.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani4208&label=Profile%20views&color=0e75b6&style=flat" alt="shivani4208" /> </p>
 
@@ -8,7 +8,7 @@ I am here to pursue a challenging career with dedication and work hard for the g
 - 📧 How to reach me **shivanikumari72002@gmail.com**
 - ⚡ Fun fact **If I could have any superpower, it would be reading one's mind**
 
-<br>
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [How to set up WhatsApp payments?](https://techtrekker.in/how-to-set-up-whatsapp-payments/)
