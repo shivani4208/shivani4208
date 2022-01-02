@@ -1,15 +1,19 @@
-### Hi 👋, I'm Shivani Kumari 
+<h3 align="center">
+  Hi,I'm Shivani
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-___
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer%20and%20Coder;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
-To pursue a challenging career with dedication and work hard for the growth of organistaion.
 
 - 🎯 I'm currently doing my graduation from MNNIT in CSE.
 - 📝 I'm currently learning data structures and algorithms.
 - 📧 How to reach me **shivanikumari72002@gmail.com**
 - ⚡ Fun fact **If I could have any superpower, it would be reading one's mind**
 
-___
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -17,7 +21,6 @@ ___
 - [Oneplus Nord 5G-Company’s most affordable smartphone](https://techtrekker.in/oneplus-nord-5g-companys-most-affordable-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
-___
 
 🤝 &nbsp;**Connect with me**
 
@@ -25,7 +28,6 @@ ___
 <code><img height="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></code>
 <code><img height="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"/></code>
 
-___
 
 🛠 &nbsp;**Languages and Tools**
 
@@ -41,15 +43,11 @@ ___
 <code><img height="20"  src="https://cdn.worldvectorlogo.com/logos/pug.svg"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 
-___
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&theme=radical">
 
-___
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&theme=radical">
-
-___
 
 <details>
   <summary>👉&nbsp;Recent GitHub Activity</summary>
