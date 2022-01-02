@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Shivani Kumari 
 
+___
+
 To pursue a challenging career with dedication and work hard for the growth of organistaion.
 
 - 🎯 I'm currently doing my graduation from MNNIT in CSE.
