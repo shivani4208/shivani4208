@@ -48,8 +48,6 @@ ___
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical" alt="shivani4208" /></p>
 </details>
 
-___
-
 <details>
   <summary>✍ Recent GitHub Activity</summary>
   
@@ -67,5 +65,5 @@ ___
 
 <details>
   <summary>✍ Github Streak</summary>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&" alt="shivani4208" /></p>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&theme=radical" alt="shivani4208" /></p>
 </details>
