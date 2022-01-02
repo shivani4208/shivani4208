@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Shivani Kumari 
 
-I am here to pursue a challenging career with dedication and work hard for the growth of organistaion.
+To pursue a challenging career with dedication and work hard for the growth of organistaion.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani4208&label=Profile%20views&color=0e75b6&style=flat" alt="shivani4208" /> </p>
 
 - 🎯 I'm currently doing my graduation from MNNIT in CSE.
@@ -16,11 +16,13 @@ I am here to pursue a challenging career with dedication and work hard for the g
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
+
 <a href="https://dev.to/shivani4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivani4208" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivani4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani4208" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/shivani4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivani4208" height="30" width="40" /></a>
  
 🔗 &nbsp;**Languages and Tools**
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="25" height="20"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
