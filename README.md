@@ -43,8 +43,8 @@ ___
 
 ___
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&theme=radical"></p>
+<img align="left src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&theme=radical">
 
 ___
 
