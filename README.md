@@ -10,20 +10,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: 'https://dev.to/feed/shivani4208'
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
