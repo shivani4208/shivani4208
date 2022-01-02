@@ -16,7 +16,7 @@ To pursue a challenging career with dedication and work hard for the growth of o
 
 🤝 &nbsp;**Connect with me**
 
-&nbsp;&nbsp;&nbsp;<code><img height="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/></code>
+<code><img height="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/></code>
 <code><img height="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></code>
 <code><img height="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"/></code>
  
