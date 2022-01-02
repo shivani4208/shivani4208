@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "2"
-          feed_list: "https://dev.to/feed/shivani4208"
+          feed_list: "https://techtrekker.in/oneplus-nord-5g-companys-most-affordable-smartphone,https://techtrekker.in/how-to-set-up-whatsapp-payments/"
