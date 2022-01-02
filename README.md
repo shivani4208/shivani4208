@@ -8,8 +8,10 @@
 - ⚡ Fun fact **If I could have any superpower, it would be reading one's mind**
 
 
-### Blogs posts
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How to set up WhatsApp payments?](https://techtrekker.in/how-to-set-up-whatsapp-payments/)
+- [Oneplus Nord 5G-Company’s most affordable smartphone](https://techtrekker.in/oneplus-nord-5g-companys-most-affordable-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
