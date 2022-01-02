@@ -35,8 +35,6 @@ ___
 <code><img height="20"  src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="20"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
-<code><img height="25"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -49,6 +47,8 @@ ___
   <summary>✍ Github stats</summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical" alt="shivani4208" /></p>
 </details>
+
+___
 
 <details>
   <summary>✍ Recent GitHub Activity</summary>
