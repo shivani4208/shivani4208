@@ -4,7 +4,7 @@
 - 🎯 I'm currently doing my graduation from MNNIT in CSE.
 - 📝 I'm currently learning data structures and algorithms.
 - 📧 How to reach me **shivanikumari72002@gmail.com**
-- ⚡ Fun fact **If I could have any superpower, it would be read one's mind**
+- ⚡ Fun fact **If I could have any superpower, it would be reading one's mind**
 
 
 ### Blogs posts
