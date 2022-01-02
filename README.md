@@ -43,11 +43,11 @@ ___
 
 ___
 
-<img align="" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical">
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&theme=radical">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&theme=radical">
 
 <details>
-  <summary>✏ &nbsp;Recent GitHub Activity</summary>
+  <summary>👉&nbsp;Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#26](https://github.com/ContriHUB/Concise/pull/26) in [ContriHUB/Concise](https://github.com/ContriHUB/Concise)
