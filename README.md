@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Shivani Kumari 
 
 To pursue a challenging career with dedication and work hard for the growth of organistaion.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani4208&label=Profile%20views&color=0e75b6&style=flat" alt="shivani4208" /> </p>
 
 - 🎯 I'm currently doing my graduation from MNNIT in CSE.
 - 📝 I'm currently learning data structures and algorithms.
