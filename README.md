@@ -9,6 +9,7 @@ To pursue a challenging career with dedication and work hard for the growth of o
 - 📧 How to reach me **shivanikumari72002@gmail.com**
 - ⚡ Fun fact **If I could have any superpower, it would be reading one's mind**
 
+___
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -16,12 +17,16 @@ To pursue a challenging career with dedication and work hard for the growth of o
 - [Oneplus Nord 5G-Company’s most affordable smartphone](https://techtrekker.in/oneplus-nord-5g-companys-most-affordable-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
+___
+
 🤝 &nbsp;**Connect with me**
 
 <code><img height="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/></code>
 <code><img height="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></code>
 <code><img height="15" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"/></code>
- 
+
+___
+
 🛠 &nbsp;**Languages and Tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -38,6 +43,8 @@ To pursue a challenging career with dedication and work hard for the growth of o
 <code><img height="20"  src="https://cdn.worldvectorlogo.com/logos/pug.svg"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.sv"></code>
+
+___
 
 <details>
   <summary>✍ Github stats</summary>
