@@ -45,7 +45,7 @@ ___
 
 <details>
   <summary>✍ Github stats</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical" alt="shivani4208" /></p>
+  <code><img src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical"/></code>
 </details>
 
 <details>
