@@ -14,7 +14,7 @@ I am here to pursue a challenging career with dedication and work hard for the g
 - [How to set up WhatsApp payments?](https://techtrekker.in/how-to-set-up-whatsapp-payments/)
 - [Oneplus Nord 5G-Company’s most affordable smartphone](https://techtrekker.in/oneplus-nord-5g-companys-most-affordable-smartphone/)
 <!-- BLOG-POST-LIST:END -->
-<br>
+
 🔗 &nbsp;**Connect with me**
 <a href="https://dev.to/shivani4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivani4208" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivani4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani4208" height="30" width="40" /></a>
