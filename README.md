@@ -15,13 +15,13 @@ To pursue a challenging career with dedication and work hard for the growth of o
 - [Oneplus Nord 5G-Company’s most affordable smartphone](https://techtrekker.in/oneplus-nord-5g-companys-most-affordable-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Connect with me**
+🤝 &nbsp;**Connect with me**
 
 <a href="https://dev.to/shivani4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivani4208" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivani4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani4208" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/shivani4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivani4208" height="30" width="40" /></a>
  
-🔗 &nbsp;**Languages and Tools**
+📙 &nbsp;**Languages and Tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="25" height="20"></code>
