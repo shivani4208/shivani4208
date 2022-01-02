@@ -44,5 +44,5 @@ ___
 ___
 
 <code><img align="left" src="https://github-readme-stats.vercel.app/api?username=shivani4208&show_icons=true&locale=en&theme=radical"></code>
-<code><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&theme=radical"></code>
+<code><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani4208&theme=radical"></code>
 <code><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani4208&show_icons=true&locale=en&theme=radical"></code>
