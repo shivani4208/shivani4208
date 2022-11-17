@@ -11,7 +11,7 @@
 
 - 🎯 I'm currently doing my graduation from MNNIT in CSE.
 - 📝 I'm currently learning data structures and algorithms.
-- 📧 How to reach me **shivanikumari72002@gmail.com**
+- 📧 How to reach me **sk20194208@gmail.com**
 - ⚡ Fun fact **If I could have any superpower, it would be reading one's mind**
 
 
@@ -27,7 +27,7 @@
 <a href="https://dev.to/shivani4208"><img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"></a>
 <a href="https://www.linkedin.com/in/shivani4208"><img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"></a>
 <a href="https://medium.com/@shivani4208"><img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"></a>
-<a href="https://www.instagram.com/shivani_kumari4208/"><img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"></a>
+<a href="https://www.instagram.com/s.h.i.v.a.n.n.i"><img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"></a>
 <p align=left>
 <em>Don't hesitate to get in touch!</em>
 </p>
